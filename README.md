@@ -1,4 +1,4 @@
 Test-repo
 =========
 
-This is my second test repo
+Howdy people! I am learning how program in R, and I am looking forward to all the wonderful things I can create!
